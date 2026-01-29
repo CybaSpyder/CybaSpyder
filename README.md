@@ -15,7 +15,7 @@ My journey in computer science has taken me from building intelligent systems to
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Application Security / AppSec             | <a href="https://google.com">Web Security Labs</a>|
+| Web Application Security / AppSec             | <a href="[https://google.com](https://github.com/CybaSpyder/web_security_labs/blob/main/README.md)">Web Security Labs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
